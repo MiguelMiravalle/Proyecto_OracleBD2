@@ -1,1 +1,1 @@
-# Proyecto_OracleBD2
+# proyecto-oracle2
